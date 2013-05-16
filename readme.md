@@ -7,7 +7,7 @@ Yeoman generator for scaffolding out a front-end web app.
 
 - Make sure you have [yo](https://github.com/yeoman/yo) installed: `npm install -g yo`
 - Install the generator: `npm install -g generator-btapp`
-- Run: `yo webapp`
+- Run: `yo btapp`
 - Run `grunt` for building and `grunt server` for preview
 
 
