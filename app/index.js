@@ -202,7 +202,7 @@ AppGenerator.prototype.writeIndex = function writeIndex() {
   contentText = contentText.concat([
     '                </ul>',
     '                <p>installed.</p>',
-    '                <h3>Enjoy coding! - Yeoman</h3>',
+    '                <h3>Psst..open up your dev console</h3>',
     '            </div>',
     '        </div>',
     ''
