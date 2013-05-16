@@ -8,7 +8,10 @@
     "app",
     "front-end",
     "h5bp",
-    "modernizr"
+    "modernizr",
+    "bittorrent",
+    "btapp",
+    "torque"
   ],
   "homepage": "https://github.com/bittorrent/generator-btapp",
   "bugs": "https://github.com/bittorrent/generator-btapp/issues",
