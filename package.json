@@ -1,7 +1,7 @@
 {
   "name": "generator-btapp",
-  "version": "0.2.3",
-  "description": "Default Yeoman generator for scaffolding out a front-end web app",
+  "version": "0.2.4",
+  "description": "BitTorrent btapp.js web app yeoman generator",
   "keywords": [
     "yeoman-generator",
     "web",
