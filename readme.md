@@ -1,6 +1,6 @@
 # Web app generator [![Build Status](https://secure.travis-ci.org/bittorrent/generator-btapp.png?branch=master)](http://travis-ci.org/bittorrent/generator-btapp)
 
-Yeoman generator for scaffolding out a front-end web app.
+BitTorrent btapp.js web app yeoman generator.
 
 
 ## Getting Started
